@@ -1,6 +1,6 @@
 #  GutenGeek - Advanced Gutenberg Blocks and Page Builder
 
-[![Gutenberg](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/gutenberg.svg)](https://gutengeek.com/)
+[![Gutenberg](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/gutenberg.svg)](https://bit.ly/2NdC62Z)
 [![WordPress](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/wordpress.svg)](https://wordpress.org/plugins/gtg-advanced-blocks/)
 [![GutenGeek](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/version.svg)](https://wordpress.org/plugins/gtg-advanced-blocks/advanced/)
 
