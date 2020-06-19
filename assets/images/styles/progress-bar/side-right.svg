@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="146" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <g id="svg_17">
+    <rect fill="#d6d9dd" height="3.736" id="svg_16" rx="1.5" width="49.595998" x="16.018753" y="34.038249"/>
+    <rect fill="#d6d9dd" height="3.736" id="svg_6" rx="1.5" width="50.096001" x="16.126999" y="45.281999"/>
+    <rect fill="#d6d9dd" height="3.736" id="svg_7" rx="1.5" width="50.295997" x="16.027004" y="55.631999"/>
+   </g>
+   <g id="svg_18">
+    <rect fill="#d6d9dd" height="3.736" id="svg_9" rx="1.5" width="36.395998" x="84.677002" y="31.381999"/>
+    <rect fill="#d6d9dd" height="2.486" id="svg_10" rx="1.5" width="15.145997" x="92.177002" y="41.631999"/>
+    <rect fill="#d6d9dd" height="2.235998" id="svg_11" rx="1.5" width="52.145997" x="77.927002" y="47.381999"/>
+    <rect fill="#d6d9dd" height="2.235998" id="svg_12" rx="1.5" width="52.145997" x="77.802002" y="52.882"/>
+    <rect fill="#d6d9dd" height="2.235998" id="svg_13" rx="1.5" width="13.895996" x="78.302002" y="59.632"/>
+   </g>
+  </g>
+ </g>
+</svg>
