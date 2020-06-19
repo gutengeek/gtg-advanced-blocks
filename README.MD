@@ -7,7 +7,7 @@
 ----
 I. [GutenGeek](https://gutengeek.com/) is a creative & advanced Gutenberg WordPress Builder plugin.This plugin comes with a  lot of custom blocks, predefined sections that support to create page and post easily, without code requirement, specially designed for new Gutenberg WordPress Editor. With premade block style, you can build a page easily. It’s a complete solution to build your beautiful page and post without any line of code. Gutengeek is a user-friendly Page Builder Gutenberg Plugin with all necessary customizable features and advanced functionalities.
 
-[![GTG Advanced Blocks](https://drive.google.com/uc?export=view&id=1WS8m2mg8vzQ-K5p_Rq0x0nLeG8p-QALF)](https://www.youtube.com/watch?v=UkCBMzwYAkM)
+[![GTG Advanced Blocks](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/Thumbnails/preview_772x250_1.jpg)](https://www.youtube.com/watch?v=UkCBMzwYAkM)
 
 In order to support the features that are not available on default Gutenberg, Gutengeek has been developed many customizable blocks to let you take full control of your Gutenberg editor. Flexible to create your page more stunning as well as friendly mobile.
 
