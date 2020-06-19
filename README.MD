@@ -1,8 +1,8 @@
 #  GutenGeek - Advanced Gutenberg Blocks and Page Builder
 
-[![Gutenberg](https://doc-14-b0-docs.googleusercontent.com/docs/securesc/mi0u4kp69v8n95dv90mge9b0jjhita7q/oananq3mltp5pdbvvhl15jun0dj9ktj2/1592532225000/16525911014609639252/16525911014609639252/1rA0RUXJDXLLZsJHaD1BY3g0w6mSvOcOJ?e=view&authuser=0&nonce=de5bf4v6ti064&user=16525911014609639252&hash=52sjit0l2c4mqsskbtt620iq9p4len78)](https://gutengeek.com/)
-[![WordPress](https://doc-0c-b0-docs.googleusercontent.com/docs/securesc/mi0u4kp69v8n95dv90mge9b0jjhita7q/n3p3dtsa775fggjppa49m0fkgtgk147r/1592532300000/16525911014609639252/16525911014609639252/1lmS_u3nxrTGynBEw2pf-YS3IF1uacHEu?e=view&authuser=0)](https://wordpress.org/plugins/gtg-advanced-blocks/)
-[![GutenGeek](https://doc-0c-b0-docs.googleusercontent.com/docs/securesc/mi0u4kp69v8n95dv90mge9b0jjhita7q/j64278jtue15pjg6ikkj5m4p11kjf1bm/1592532300000/16525911014609639252/16525911014609639252/1OdhVF7kcRmVAqSq9G6JQM4_USNsiMkso?e=view&authuser=0)](https://wordpress.org/plugins/gtg-advanced-blocks/advanced/)
+[![Gutenberg](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/gutenberg.svg)](https://gutengeek.com/)
+[![WordPress](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/wordpress.svg)](https://wordpress.org/plugins/gtg-advanced-blocks/)
+[![GutenGeek](https://s3.us-east-2.amazonaws.com/static.gutengeek.com/version.svg)](https://wordpress.org/plugins/gtg-advanced-blocks/advanced/)
 
 ----
 I. [GutenGeek](https://gutengeek.com/) is a creative & advanced Gutenberg WordPress Builder plugin.This plugin comes with a  lot of custom blocks, predefined sections that support to create page and post easily, without code requirement, specially designed for new Gutenberg WordPress Editor. With premade block style, you can build a page easily. It’s a complete solution to build your beautiful page and post without any line of code. Gutengeek is a user-friendly Page Builder Gutenberg Plugin with all necessary customizable features and advanced functionalities.
