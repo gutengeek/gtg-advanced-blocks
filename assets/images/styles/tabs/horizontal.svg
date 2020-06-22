@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="146" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m0.23,0l145.77,0l0,69.77l-145.77,0l0,-69.77z" fill="#fff" id="Rectangle-Copy-58"/>
+   <g id="svg_2" transform="translate(7.705 7.475)">
+    <rect fill="#D6D9DD" height="21.18" id="svg_3" rx="3" width="41.115"/>
+    <rect fill="#fff" height="6.23" id="svg_4" rx="3" width="26.164" x="7.475" y="7.475"/>
+   </g>
+   <g id="svg_5">
+    <rect fill="#E5E7EA" height="21.18" id="svg_6" rx="3" width="41.115" x="52.557999" y="7.475"/>
+    <rect fill="#fff" fill-opacity="0.7" height="6.23" id="svg_7" rx="3" width="26.164" x="60.032999" y="14.95"/>
+   </g>
+   <g id="svg_8" transform="translate(97.41 7.475)">
+    <rect fill="#E5E7EA" height="21.18" id="svg_9" rx="3" width="41.115"/>
+    <rect fill="#fff" fill-opacity="0.7" height="6.23" id="svg_10" rx="3" width="26.164" x="7.475" y="7.475"/>
+   </g>
+   <g fill="#E5E7EA" id="svg_11">
+    <rect fill="#d6d9dd" height="3.738" id="svg_12" rx="1.5" width="129.574" x="7.705" y="36.876999"/>
+    <rect fill="#d6d9dd" height="3.738" id="svg_17" rx="1.5" width="129.574" x="7.705" y="43.876999"/>
+    <rect fill="#d6d9dd" height="3.738" id="svg_18" rx="1.5" width="129.574" x="7.705" y="50.751999"/>
+    <rect fill="#d6d9dd" height="3.738" id="svg_19" rx="1.5" width="129.574" x="7.705" y="57.751999"/>
+    <rect fill="#d6d9dd" height="21.000001" id="svg_23" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.374999" x="7.5625" y="7.4375"/>
+    <rect fill="#d6d9dd" height="21.000001" id="svg_25" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.374999" x="52.1875" y="7.4375"/>
+    <rect fill="#d6d9dd" height="21.000001" id="svg_26" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.374999" x="96.9375" y="7.4375"/>
+   </g>
+  </g>
+ </g>
+</svg>

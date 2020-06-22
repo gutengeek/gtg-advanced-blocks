@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="146" height="132" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m0,0.25l145.698,0l0,132l-145.698,0l0,-132z" fill="#fff" id="Rectangle-Copy-58"/>
+   <rect fill="#d6d9dd" height="36.439002" id="svg_2" rx="2" width="119.041997" x="12.453" y="12.703"/>
+   <rect fill="#d6d9dd" height="12.188998" id="svg_5" rx="6.5" width="37.825001" x="18.203" y="93.858"/>
+   <g id="svg_12">
+    <rect fill="#d6dadd" height="3.736" id="svg_10" rx="1.5" width="38.872989" x="18.813503" y="81.507001"/>
+    <rect fill="#d6dadd" height="3.736" id="svg_9" rx="1.5" width="107.122993" x="18.813502" y="73.007001"/>
+    <rect fill="#d6dadd" height="3.736" id="svg_8" rx="1.5" width="107.122993" x="18.678998" y="63.759"/>
+    <rect fill="#d6dadd" height="3.736" id="svg_11" rx="1.5" width="37.872988" x="19.063503" y="54.632001"/>
+   </g>
+  </g>
+  <rect fill="#d6dadd" height="4.486" id="svg_7" rx="1.5" width="38.37299" x="18.813503" y="54.382001"/>
+ </g>
+</svg>

@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "40341a60e3ab96c438583dcd82b86c85",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "gutengeek/components",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/Users/nguyenduc/Desktop/gutengeek/components",
+                "reference": "7ba0ae7aebf94e7443deccafec586e15fdb0b645"
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/init.php"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "gutengeek",
+                    "email": "gutengeekwp@gmail.com",
+                    "homepage": "https://gutengeek.com/"
+                }
+            ],
+            "description": "Gutengeek Components Advanced Controls for GutenBerg",
+            "homepage": "https://gutengeek.com/",
+            "keywords": [
+                "block-components",
+                "block-controls",
+                "components",
+                "gutenberg",
+                "gutengeek",
+                "library",
+                "wordpress"
+            ]
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "gutengeek/components": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

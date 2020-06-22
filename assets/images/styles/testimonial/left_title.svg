@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="146" height="46.99999999999999" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <g class="layer" id="svg_9" style="vector-effect: non-scaling-stroke;">
+   <g fill="none" id="svg_10" style="vector-effect: non-scaling-stroke;">
+    <g id="svg_11" style="vector-effect: non-scaling-stroke;">
+     <path d="m0.243808,0.078512l145.659432,0l0,47l-145.659432,0l0,-47z" fill="#F2F3F7" id="svg_12" style="vector-effect: non-scaling-stroke;"/>
+     <g fill="#D6D9DD" id="svg_13" style="vector-effect: non-scaling-stroke;">
+      <ellipse cx="26.387681" cy="23.578522" fill="#d6d9dd" id="svg_14" rx="13.693978" ry="13.705" style="vector-effect: non-scaling-stroke;"/>
+      <rect fill="#d6d9dd" height="7.475" id="svg_15" rx="3" style="vector-effect: non-scaling-stroke;" width="49.798567" x="46.307108" y="15.857522"/>
+      <rect fill="#d6d9dd" height="3.738" id="svg_16" rx="1.5" style="vector-effect: non-scaling-stroke;" width="87.146247" x="46.307108" y="28.562522"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
