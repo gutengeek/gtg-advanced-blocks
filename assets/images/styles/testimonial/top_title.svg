@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="146" height="46.99999999999999" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <g fill="none" id="svg_10">
+   <path d="m0.326453,0.078512l145.659432,0l0,47l-145.659432,0l0,-47z" fill="#F2F3F7" id="svg_12"/>
+   <ellipse cx="70.570488" cy="17.049595" fill="#d6d9dd" id="svg_14" rx="13.693978" ry="13.705"/>
+   <g id="svg_17">
+    <g id="svg_18">
+     <rect fill="#d6d9dd" height="4.970378" id="svg_15" rx="3" width="49.798567" x="46.968267" y="33.212892"/>
+     <rect fill="#d6d9dd" height="2.485521" id="svg_16" rx="1.5" width="87.146247" x="30.108762" y="40.972024"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

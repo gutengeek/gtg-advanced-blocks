@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="146" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_10">
+   <g id="svg_19">
+    <g fill="#000000" id="svg_11" transform="translate(0 200) scale(0.1 -0.1)"/>
+    <rect fill="#f2f3f7" height="80.999996" id="svg_13" stroke-width="5" width="148.999991" x="-1.499999" y="-0.500002"/>
+    <polygon fill="#ffffff" id="svg_12"/>
+    <g id="svg_4">
+     <rect fill="#d6d9dd" height="2.823944" id="svg_14" stroke-width="5" width="61.943819" x="14.923923" y="22.834504"/>
+     <rect fill="#d6d9dd" height="1.394367" id="svg_15" stroke-width="5" width="86.188194" x="14.845272" y="40.447178"/>
+     <rect fill="#d6d9dd" height="2.834504" id="svg_17" stroke-width="5" width="13.79346" x="15.443818" y="50.348587"/>
+     <rect fill="#d6d9dd" height="1.834506" id="svg_18" stroke-width="5" width="18.41573" x="14.990323" y="29.278166"/>
+     <rect fill="#d6d9dd" height="1.394367" id="svg_1" stroke-width="5" width="86.188194" x="14.780903" y="37.177818"/>
+     <rect fill="#d6d9dd" height="1.644367" id="svg_2" stroke-width="5" width="9.938201" x="15.030903" y="43.927817"/>
+     <rect fill="#d6d9dd" height="2.834504" id="svg_3" stroke-width="5" width="13.79346" x="31.228271" y="50.332747"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
