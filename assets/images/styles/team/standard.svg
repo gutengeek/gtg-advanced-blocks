@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="146" height="188" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>Group 9</title>
+ <desc>Created with Sketch.</desc>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m0,0l146,0l0,188l-146,0l0,-188z" fill="#fff" id="svg_2"/>
+   <g fill="#d6d9dd" id="svg_3">
+    <rect fill="#bfbfbf" height="7.47" id="Rectangle" rx="3" width="58.875999" x="43.562" y="114.923996"/>
+    <rect fill="#bfbfbf" height="1.734996" id="svg_4" rx="1.5" width="20.337998" x="62.831001" y="126.618996"/>
+    <ellipse cx="55.325001" cy="171.314996" fill="#bfbfbf" id="svg_5" rx="3.744" ry="3.735"/>
+    <ellipse cx="68.000002" cy="171.314996" fill="#bfbfbf" id="svg_6" rx="3.744" ry="3.735"/>
+    <ellipse cx="80.778001" cy="171.314996" fill="#bfbfbf" id="svg_7" rx="3.744" ry="3.735"/>
+    <ellipse cx="95.004001" cy="171.314996" fill="#bfbfbf" id="svg_8" rx="3.744" ry="3.735"/>
+    <rect fill="#bfbfbf" height="2.735" id="svg_25" rx="1.5" width="94.838" x="25.581001" y="134.118998"/>
+    <rect fill="#bfbfbf" height="2.735" id="svg_26" rx="1.5" width="94.838" x="25.581001" y="143.118998"/>
+    <rect fill="#bfbfbf" height="2.735" id="svg_27" rx="1.5" width="94.838" x="25.581001" y="152.618998"/>
+   </g>
+   <g id="svg_9">
+    <rect fill="#F2F3F7" height="89.522999" id="svg_10" rx="4" width="89.042996" x="28.4785" y="12.45"/>
+    <g fill="#d6d9dd" fill-rule="nonzero" id="svg_11">
+     <path d="m73.00037,30.315951c-7.379851,0 -13.384072,6.002504 -13.384072,13.380926c0,7.378421 6.003485,13.380926 13.384072,13.380926c7.379851,0 13.384808,-6.002504 13.384808,-13.380926c0,-7.378421 -6.004221,-13.380926 -13.384808,-13.380926zm-0.000736,29.936872c-12.924303,0 -23.438678,10.512247 -23.438678,23.433285l46.878092,0c0.000736,-12.921787 -10.514375,-23.433285 -23.439414,-23.433285z" fill="#bfbfbf" id="svg_12"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

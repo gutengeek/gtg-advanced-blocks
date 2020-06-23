@@ -1,0 +1,150 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+ */
+.gutengeek-options-section {
+  background-color: #FFFFFF;
+  padding: 30px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%; }
+
+.gutengeek-option-logo img {
+  width: 200px; }
+
+.gutengeek-options-section-header {
+  border-bottom: 1px solid #ddd;
+  margin: -30px -30px 30px;
+  padding: 20px 30px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.gutengeek-options-section-header h2,
+.gutengeek-options-section-header h3 {
+  margin: 0;
+  line-height: 1; }
+
+.gutengeek-options-section-header h2 {
+  font-size: 24px;
+  color: #232323;
+  margin-bottom: 10px; }
+
+.gutengeek-options-section-header h3 {
+  font-size: 18px;
+  font-weight: 300;
+  color: #232323; }
+
+@media (min-width: 992px) {
+  .gutengeek-options-section {
+    padding: 60px; }
+  .gutengeek-options-section-header h2 {
+    font-size: 35px;
+    margin-bottom: 20px; }
+  .gutengeek-options-section-header h3 {
+    font-size: 25px; }
+  .gutengeek-options-section-header {
+    margin: -60px -60px 30px;
+    padding: 30px 60px; } }
+
+h3.gutengeek-options-section-title,
+h4.gutengeek-options-section-title {
+  line-height: 1;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center; }
+
+h3.gutengeek-options-section-title {
+  font-size: 28px;
+  color: #E12985;
+  margin: 0 0 30px; }
+
+h4.gutengeek-options-section-title {
+  font-size: 21px;
+  color: #232323;
+  margin: 0 0 20px; }
+
+.gutengeek-options-section-title img {
+  margin-left: 15px; }
+
+.gutengeek-options-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 30px; }
+
+.gutengeek-options-features:after {
+  display: block;
+  clear: both;
+  content: " "; }
+
+.gutengeek-options-features > li {
+  font-size: 14px;
+  line-height: 1.8;
+  display: block;
+  color: #838383;
+  width: 50%;
+  float: left; }
+
+.gutengeek-options-features > li > i {
+  font-style: normal;
+  color: #c7415c;
+  margin-right: 10px; }
+
+.gutengeek-embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden; }
+
+.gutengeek-embed-responsive:before {
+  content: " ";
+  display: block;
+  padding-top: 56.25%; }
+
+.gutengeek-embed-responsive .gutengeek-embed-responsive-item {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0; }
+
+.gutengeek-mb-0 {
+  margin-bottom: 0; }
+
+.gutengeek-mb-30 {
+  margin-bottom: 30px; }
+
+.gutengeek-mt-20 {
+  margin-top: 20px; }
+
+.gutengeek-row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.gutengeek-row > div {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+@media (min-width: 992px) {
+  .gutengeek-row.gutengeek-block-2 > div {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%; } }
