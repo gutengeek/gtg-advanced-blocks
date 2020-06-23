@@ -1,6 +1,6 @@
-=== GutenGeek Advanced Blocks ===
+=== GutenGeek Advanced Gutenberg Blocks ===
 Contributors: gutengeekwp
-Tags: blocks, gutenberg, gutenberg blocks, editor, block editor, wordpress blocks
+Tags: blocks, gutenberg, gutenberg blocks, editor, block editor, wordpress blocks, page builder
 Requires at least: 5.0
 Tested up to: 5.4.1
 Stable tag: 1.0.0
@@ -9,19 +9,27 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 ----
-[GutenGeek](https://gutengeek.com/) is a creative & advanced Gutenberg WordPress Builder plugin.This plugin comes with a lot of custom blocks, predefined sections that support to create page and post easily, without code requirement, specially designed for new Gutenberg WordPress Editor. With premade block style, you can build a page easily. It’s a complete solution to build your beautiful page and post without any line of code. Gutengeek is a user-friendly Page Builder Gutenberg Plugin with all necessary customizable features and advanced functionalities.
+
+## GutenGeek - Powerful Page Builder Gutenberg Blocks
+
+[GutenGeek](https://bit.ly/3erGfwp) is a creative & powerful Gutenberg WordPress Block that comes with a lot of custom blocks editor, predefined sections to create content of page and post easily, no code requirements, specially designed for new Gutenberg WordPress Editor. With over 37+ additional blocks and true row and column building, Gutengeek gives you a true page builder experience for Gutenberg WordPress.
+It’s a complete solution to build your beautiful page and post without any line of code as in a truly page builder. Gutengeek is a user-friendly Page Builder Gutenberg Plugin with all necessary customizable features and advanced functionalities.
 
 [Gutengeek Block](https://gutengeek.com) || [Live Demo](https://libs.gutengeek.com/#/blocks) || [Documentation](https://docs.gutengeek.com/)
 
 [youtube https://www.youtube.com/watch?v=8vU2I3mxTNA]
 
+## The Easiest & Simplest Ways to Build Your Webpage Content Experience
+
 In order to support the features that are not available on default Gutenberg, Gutengeek has been developed many customizable blocks to let you take full control of your Gutenberg editor. Flexible to create your page more stunning as well as friendly mobile.
 
-Moreover, in the Gutenberg editor, Gutengeek offers all necessary high quality blocks features that allow you to create your page, post or landing page as you need.
+Moreover, in the Gutenberg editor, Gutengeek offers all necessary high quality Gutenberg blocks features that allow you to create your page, post or landing page as you need.
 
-Let’s spend few minutes on discovering Full Blocks Features of Gutengeek:
+Let’s spend few minutes on discovering Full features of Gutengeek - Advanced Gutenberg Blocks: 
 
-= 37+ High-customizable Blocks for Gutenberg Editor =
+## Advanced Gutenberg Blocks for WordPress - Gutengeek
+
+* 37+ High-customizable Blocks for Gutenberg Editor
 * Modern & Responsive Layout Packs
 * High Customizable Row Columns
 * Flexible to Resize Column
@@ -48,11 +56,11 @@ Let’s spend few minutes on discovering Full Blocks Features of Gutengeek:
 * Custom Icons Support
 * Multiple devices supports
 
-II. All Customizable Blocks in Gutengeek For Your Gutenberg Editor
+## Outstanding GutenGeek Gutenberg Blocks
 
 With Gutengeek, there are 37+ custom blocks to the Gutenberg block editor. Let's explore all available advanced Gutengeek blocks:
 
-= Gutengeek Block Features at Glance: =
+= Gutengeek Advanced Page Builder Gutenberg Blocks Features at Glance: =
 
 * [Section Block](https://gutengeek.com/template-library/#/blocks/sections)
 * [Advanced Accordion Block](https://gutengeek.com/template-library/#/blocks/accordion)
@@ -92,7 +100,7 @@ With Gutengeek, there are 37+ custom blocks to the Gutenberg block editor. Let's
 * [Custom form builder](https://gutengeek.com/template-library/#/blocks/contact)
 * [Pie progress Block](https://libs.gutengeek.com/#/blocks/pie-progress)
 
-= Gutengeek Block Features at Glance =
+## Detail of Gutengeek Page Builder Gutenberg Blocks Features
 
 * Section: The Section Block is a container block which lets you add multiple Gutenberg Blocks inside.
 * Accordion: Showcase collapsible texts in a dropdown interface
@@ -132,17 +140,17 @@ With Gutengeek, there are 37+ custom blocks to the Gutenberg block editor. Let's
 * Custom form builder: Add various form fields, check boxes, radio buttons, text area and text.
 * Pie Progress: Break complicated parts of progress and use easy-to-see pie progresses.
 
-= FAQ =
+## FAQ
 
 * Detailed guide to install and customize: [Documentation](https://docs.gutengeek.com/)
 * System tickets support 24/7 available : [Free Support](https://gutengeek.com/contact/)
 
-= Development =
+## Development
 * [Github](https://github.com/gutengeek)
 * [Packagist](https://packagist.org/packages/gutengeek/components)
 * [npm](https://www.npmjs.com/~gutengeek)
 * [Development Tutorial](https://gist.github.com/gutengeek)
 
-= Contributors & Developers =
-* [“GutenGeek”](https://gutengeek.com/) is an open source Gutenberg WordPress Builder Plugin software. The following people have contributed to this plugin.
+## Contributors & Developers =
+* [“GutenGeek”](https://gutengeek.com/) is an open-source Page Builder Gutenberg Block Plugin software. The following people have contributed to this plugin.
 
