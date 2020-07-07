@@ -1,0 +1,24 @@
+{
+    "name": "gutengeek/components",
+    "description": "Gutengeek Components Advanced Controls for GutenBerg",
+    "keywords": ["components", "library", "gutengeek", "gutenberg", "block-controls", "block-components", "wordpress"],
+    "type": "library",
+    "homepage": "https://gutengeek.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gutengeek",
+            "email": "gutengeekwp@gmail.com",
+            "homepage": "https://gutengeek.com/"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0"
+    },
+    "autoload": {
+        "files": [
+        	"src/init.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}

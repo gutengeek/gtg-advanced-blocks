@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="145" height="75" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m0.235992,26.26403l6.181,4.944l0,-4.944l-6.181,0z" fill="#d6d9dd" id="svg_2"/>
+   <path d="m144.861992,26.26403l-6.181,4.944l0,-4.944l6.181,0z" fill="#d6d9dd" id="svg_3"/>
+   <rect fill="#ffffff" height="74.167" id="svg_4" rx="4" width="134.736" x="4.929992" y="0.30603"/>
+   <path d="m0.235992,9.41703l144.625,0l0,16.847l-144.625,0l0,-16.847z" fill="#d6d9dd" id="svg_5"/>
+  </g>
+  <polygon cx="-137.75" cy="-68.09375" edge="0" fill="#d6d9dd" id="svg_6" orient="x" shape="regularPoly" sides="5" strokeWidth="null" strokecolor="none"/>
+  <polygon cx="98.25" cy="-56.09375" edge="0" fill="#d6d9dd" id="svg_7" orient="x" shape="regularPoly" sides="5" strokeWidth="null" strokecolor="none"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="146" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m-0.25,0.249998l145.698,0l0,79.250006l-145.698,0l0,-79.250006z" fill="#fff" id="Rectangle-Copy-58"/>
+   <g id="svg_12">
+    <rect fill="#d6dadd" height="3.937136" id="svg_10" rx="1.5" width="38.872989" x="18.063503" y="51.580694"/>
+    <rect fill="#d6dadd" height="3.937136" id="svg_9" rx="1.5" width="73.372993" x="18.063502" y="42.623078"/>
+    <rect fill="#d6dadd" height="3.937136" id="svg_8" rx="1.5" width="107.122993" x="17.928998" y="32.877191"/>
+   </g>
+  </g>
+ </g>
+</svg>

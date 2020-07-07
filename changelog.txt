@@ -1,0 +1,27 @@
+== Changelog ==
+
+= 1.0.3 =
+## Features
+- Post Grid: add new 2 layouts and 2 styles
+- Fix Bugs:
+	- Prefix database
+- Remove outdated file, improve javascript files
+
+= 1.0.2 =
+## Features
+- Blocks:
+	- Progress: add new style circle
+	- Tested up to: 5.4.2: Template Library button
+	- Split and add vendor: gutengeek/components(https://packagist.org/packages/gutengeek/components)
+	- Post Grid: add columns to post list
+- Add block position
+- Add block border, border radius
+- Update Animation control and improve animation effect
+
+
+= 1.0.1 =
+## Bug Fixes
+- Blocks:
+	- Testimonial: content boxshadow hover
+	- Post Masonry: hotfix Category components
+	- Info Box: Media Image align center on layout 1 + layout 2

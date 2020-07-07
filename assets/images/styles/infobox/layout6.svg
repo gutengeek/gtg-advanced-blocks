@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="111">
+	<g class="layer">
+		<title>Layer 1</title>
+		<g fill="none" id="svg_1">
+			<path d="m-0.5,-1l146,0l0,111l-146,0l0,-111z" fill="#F2F3F7" id="svg_2"/>
+			<g id="svg_3">
+				<g id="svg_4">
+					<ellipse cx="118.44" cy="49.421" fill="#D6D9DD" id="svg_5" rx="16.222" ry="16.213"/>
+				</g>
+				<rect fill="#D6D9DD" height="7.483" id="svg_7" rx="3" width="49.915" x="14.718" y="12.112"/>
+				<rect fill="#D6D9DD" height="1.242" id="svg_8" rx="1.5" width="79.064002" x="15.718001" y="37.073001"/>
+				<rect fill="#D6D9DD" height="2.983001" id="svg_13" rx="3" width="37.415002" x="14.792494" y="26.758499"/>
+				<rect fill="#D6D9DD" height="10.241992" id="svg_14" rx="1.5" width="22.063996" x="43.46799" y="74.129002"/>
+				<rect fill="#D6D9DD" height="1.742" id="svg_15" rx="1.5" width="78.064002" x="15.218001" y="45.129001"/>
+				<rect fill="#D6D9DD" height="1.742" id="svg_16" rx="1.5" width="78.064002" x="15.718001" y="62.129001"/>
+				<rect fill="#D6D9DD" height="1.742" id="svg_17" rx="1.5" width="78.064002" x="14.718001" y="53.629001"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<svg width="304" height="107" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>Group 3</title>
+ <desc>Created with Sketch.</desc>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" id="svg_1">
+   <path d="m0,0l304,0l0,107l-304,0l0,-107z" fill="#fff" id="svg_2"/>
+   <g id="svg_3">
+    <rect fill="#F2F3F7" height="82.116" id="Rectangle" rx="4" width="83.475" x="12.209" y="12.692"/>
+    <polygon fill="#d6d9dd" id="svg_12"/>
+    <polygon fill="#d6d9dd" id="svg_13"/>
+    <polygon fill="#d6d9dd" id="svg_15"/>
+    <polygon fill="#d6d9dd" id="svg_16"/>
+    <polygon fill="#d6d9dd" id="svg_17"/>
+    <polygon fill="#F2F3F7" id="svg_18"/>
+    <polygon fill="#F2F3F7" id="svg_19"/>
+   </g>
+   <g fill="#D6D9DD" id="svg_6">
+    <rect fill="#d6d9dd" height="3.983001" id="svg_14" rx="1.5" width="178.274999" x="110.612503" y="51.508499"/>
+    <rect fill="#d6d9dd" height="3.983001" id="svg_7" rx="1.5" width="178.274999" x="110.612503" y="39.508499"/>
+    <rect fill="#d6d9dd" height="3.983001" id="svg_8" rx="1.5" width="178.274999" x="110.612503" y="64.258499"/>
+    <rect fill="#d6d9dd" height="3.983001" id="svg_9" rx="1.5" width="178.274999" x="110.612503" y="26.508499"/>
+    <rect fill="#d6d9dd" height="3.983001" id="svg_10" rx="1.5" width="178.274999" x="110.612503" y="77.258499"/>
+    <polygon fill="#F2F3F7" id="svg_29"/>
+    <polygon fill="#F2F3F7" id="svg_30"/>
+    <polygon fill="#F2F3F7" id="svg_31"/>
+    <polygon fill="#F2F3F7" id="svg_32"/>
+   </g>
+   <polygon fill="#F2F3F7" id="svg_23"/>
+   <polygon fill="#F2F3F7" id="svg_24"/>
+   <polygon fill="#F2F3F7" id="svg_25"/>
+   <polygon fill="#F2F3F7" id="svg_26"/>
+   <polygon fill="#F2F3F7" id="svg_27"/>
+   <polygon fill="#F2F3F7" id="svg_28"/>
+  </g>
+  <polygon fill="#F2F3F7" id="svg_20"/>
+  <polygon fill="#F2F3F7" id="svg_21"/>
+  <polygon fill="#F2F3F7" id="svg_22"/>
+  <path d="m27.33372,30.48087l0,41.749996l52.938924,0l0,-41.749996l-52.938924,0zm44.605946,38.166458l-36.272967,0l0,-34.58292l36.272967,0l0,34.58292zm-27.449813,-21.030154c2.795959,0 5.06449,-2.162834 5.06449,-4.828523c0,-2.667558 -2.268531,-4.828523 -5.06449,-4.828523c-2.79792,0 -5.06449,2.162834 -5.06449,4.828523c0,2.665689 2.26657,4.828523 5.06449,4.828523zm25.491072,4.206031l-9.640766,-9.191579l-13.562168,12.930273l-3.758664,-3.583538l-5.395849,5.144443l0,9.655177l32.357447,0l0,-14.954776z" fill="#d6d9dd" id="svg_4" stroke="#000000" stroke-opacity="0" stroke-width="5"/>
+ </g>
+</svg>
