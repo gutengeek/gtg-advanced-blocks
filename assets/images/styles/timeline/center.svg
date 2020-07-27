@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="146" height="111" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g class="layer" id="svg_6">
+   <g fill="none" id="svg_1">
+    <path d="m0,0.25l146,0l0,111l-146,0l0,-111z" fill="#F2F3F7" id="svg_2"/>
+    <g id="svg_3">
+     <rect fill="#D6D9DD" height="0" id="svg_18" width="4.75" x="7.6875" y="48.875"/>
+     <rect fill="#D6D9DD" height="17.500001" id="svg_19" width="46.249995" x="17.937506" y="13.125"/>
+     <rect fill="#D6D9DD" height="86.000004" id="svg_17" width="2.75" x="71.1875" y="12.375"/>
+     <rect fill="#D6D9DD" height="17.500001" id="svg_25" width="47.749995" x="79.5" y="35.25"/>
+     <rect fill="#D6D9DD" height="17.500001" id="svg_26" width="46.749993" x="18.500004" y="57.5"/>
+     <rect fill="#D6D9DD" height="17.500001" id="svg_27" width="46.499993" x="80.000003" y="80.25"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

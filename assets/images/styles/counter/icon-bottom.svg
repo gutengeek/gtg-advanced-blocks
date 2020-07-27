@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="146" height="111" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g class="layer" id="svg_6">
+   <g fill="none" id="svg_1">
+    <path d="m0,0.25l146,0l0,111l-146,0l0,-111z" fill="#F2F3F7" id="svg_2"/>
+    <text fill="#d6d9dd" font-family="serif" font-size="24" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.919643 0 0 0.689655 11.0441 16.8922)" x="70.971477" xml:space="preserve" y="46.875">18,967.5</text>
+    <rect fill="#d6d9dd" height="3.25" id="svg_7" stroke="#000000" stroke-width="0" width="57" x="47.4375" y="27.875"/>
+    <circle cx="75.1875" cy="70.5" fill="#d6d9dd" id="svg_10" r="15.889595"/>
+   </g>
+  </g>
+ </g>
+</svg>

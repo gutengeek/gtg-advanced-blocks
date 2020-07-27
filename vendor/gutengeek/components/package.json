@@ -1,0 +1,53 @@
+{
+  "name": "@gutengeek/components",
+  "version": "1.0.5",
+  "description": "Gutengeek Components Advanced Controls for GutenBerg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "keywords": [
+    "components",
+    "library",
+    "gutengeek",
+    "gutenberg",
+    "block-controls",
+    "block-components",
+    "wordpress"
+  ],
+  "author": "gutengeek",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.10.3",
+    "@wordpress/scripts": "^7.2.0",
+    "css-loader": "^3.5.2",
+    "ignore-emit-webpack-plugin": "^2.0.2",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.13.1",
+    "path": "^0.12.7",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "sass-loader": "^8.0.2",
+    "url-loader": "^4.1.0"
+  },
+  "dependencies": {
+    "@wordpress/babel-preset-default": "^4.15.0",
+    "@wordpress/element": "^2.14.0",
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "classnames": "^2.2.6",
+    "colorette": "^1.2.0",
+    "file-loader": "^6.0.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutengeek/Components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gutengeek/Components/issues"
+  },
+  "homepage": "https://github.com/gutengeek/Components#readme"
+}
